@@ -1,4 +1,6 @@
-# Nyaa-Api-Ts
+# Nyaa-Api-Ts-Server
+
+# **Coming Soon!**
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Yash-Garg/Nyaa-Api-Ts)
 
